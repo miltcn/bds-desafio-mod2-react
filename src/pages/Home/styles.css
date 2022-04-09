@@ -1,0 +1,25 @@
+.home-container {
+  padding: 30px 40px;
+}
+
+.home-container h1 {
+  font-size: 40px;
+}
+
+.home-container p {
+  font-size: 20px;
+  color: #7E7E7E;
+  font-weight: bold;
+  margin-bottom: 35px;
+}
+
+.home-container a {
+  color: #FFF;
+  padding: 8px 18px;
+  background: #1890FF;
+  border-radius: 4px;
+}
+
+.home-container a:hover {
+  color: #FFF;
+}
