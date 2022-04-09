@@ -1,1 +1,1 @@
-##  Projeto React básico utilizando as configurações apresentadas no Bootcamp DevSuperior. 
+##  Desafio Bootcamp React DevSuperior - Módulo 2
