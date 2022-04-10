@@ -1,12 +1,16 @@
+.container {
+  margin: 54px 95px;
+}
+
 .profile-search-container {
   display: flex;
   flex-direction: column;
   background: #E6F7FF;
   height: 270px;
-  margin: 54px 95px;
   border-radius: 16px;
   padding-left: 31px;
   padding-top: 54px;
+  margin-bottom: 54px;
 }
 
 .profile-search-container h1 {
@@ -31,4 +35,5 @@
   width: 101px;
   padding: 8px 16px;
   border-radius: 4px;
+  cursor: pointer;
 }
