@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom';
 import './styles.css';
 
 const Home = () => {
@@ -9,7 +10,7 @@ const Home = () => {
       <p>
         Bootcamp Spring React - DevSuperior
       </p>
-      <a href="/">Começar</a>
+      <Link to="/profile-search">Começar</Link>
     </div>
   );
 }

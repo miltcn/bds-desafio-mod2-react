@@ -1,14 +1,11 @@
-import Navbar from 'components/Navbar';
-import ProfileSearch from 'pages/ProfileSearch';
-import ProfileShow from 'ProfileShow';
+import Routes from 'Routes';
 import './App.css';
 
 function App() {
   return (
-   <div>
-     <Navbar />
-     <ProfileSearch />
-   </div>
+   <>
+    <Routes />
+   </>
   );
 }
 
